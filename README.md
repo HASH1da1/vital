@@ -1,2 +1,8 @@
 # vital
-My Vital presets
+My Vital presets.
+
+- bass
+- lead
+- pad
+- percussion
+- pluck
